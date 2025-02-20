@@ -78,7 +78,5 @@ Support advanced mathematical operations.
 
 Implement multi-threading to handle multiple clients efficiently.
 
-Author
 
-Developed by [Your Name]
 
